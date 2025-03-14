@@ -1,0 +1,1084 @@
+{
+  "Life Science": [
+    {
+      "Q": "What is the powerhouse of the cell?",
+      "A": "Mitochondria"
+    },
+    {
+      "Q": "What molecule carries genetic information?",
+      "A": "DNA"
+    },
+    {
+      "Q": "What is adaptation?",
+      "A": "A trait that helps an organism survive."
+    },
+    {
+      "Q": "What is aerobic respiration?",
+      "A": "The process of producing energy using oxygen."
+    },
+    {
+      "Q": "What is an allele?",
+      "A": "A variant form of a gene."
+    },
+    {
+      "Q": "What are amino acids?",
+      "A": "Building blocks of proteins."
+    },
+    {
+      "Q": "What is an autotroph?",
+      "A": "An organism that makes its own food."
+    },
+    {
+      "Q": "What are bacteria?",
+      "A": "Single-celled microorganisms."
+    },
+    {
+      "Q": "What is biodiversity?",
+      "A": "The variety of life in an area."
+    },
+    {
+      "Q": "What is a biotic factor?",
+      "A": "A living component of an ecosystem."
+    },
+    {
+      "Q": "What is a cell?",
+      "A": "The basic unit of life."
+    },
+    {
+      "Q": "What is chlorophyll?",
+      "A": "The green pigment in plants used for photosynthesis."
+    },
+    {
+      "Q": "What is a chromosome?",
+      "A": "A structure containing DNA."
+    },
+    {
+      "Q": "What is a community?",
+      "A": "Different species living in the same area."
+    },
+    {
+      "Q": "What is cytoplasm?",
+      "A": "The fluid inside a cell."
+    },
+    {
+      "Q": "What is a decomposer?",
+      "A": "An organism that breaks down dead matter."
+    },
+    {
+      "Q": "What is DNA?",
+      "A": "The molecule carrying genetic information."
+    },
+    {
+      "Q": "What is an ecosystem?",
+      "A": "A community of living and non-living things."
+    },
+    {
+      "Q": "What is an enzyme?",
+      "A": "A protein that speeds up chemical reactions."
+    },
+    {
+      "Q": "What is evolution?",
+      "A": "Change in species over time."
+    },
+    {
+      "Q": "What is a food chain?",
+      "A": "A sequence showing energy transfer between organisms."
+    },
+    {
+      "Q": "What is a fossil?",
+      "A": "Preserved remains of ancient organisms."
+    },
+    {
+      "Q": "What is a gene?",
+      "A": "A segment of DNA coding for a trait."
+    },
+    {
+      "Q": "What is a genotype?",
+      "A": "The genetic makeup of an organism."
+    },
+    {
+      "Q": "What is a habitat?",
+      "A": "The environment where an organism lives."
+    },
+    {
+      "Q": "What is a heterotroph?",
+      "A": "An organism that consumes others for food."
+    },
+    {
+      "Q": "What is homeostasis?",
+      "A": "The maintenance of stable internal conditions."
+    },
+    {
+      "Q": "What is a hormone?",
+      "A": "A chemical messenger in the body."
+    },
+    {
+      "Q": "What is the immune system?",
+      "A": "The body's defense system against infections."
+    },
+    {
+      "Q": "What is a kingdom in biology?",
+      "A": "A major classification of organisms."
+    },
+    {
+      "Q": "What is meiosis?",
+      "A": "Cell division that produces sex cells."
+    },
+    {
+      "Q": "What are mitochondria?",
+      "A": "The powerhouse of the cell."
+    },
+    {
+      "Q": "What is a mutation?",
+      "A": "A change in DNA sequence."
+    },
+    {
+      "Q": "What is natural selection?",
+      "A": "Survival of the fittest."
+    },
+    {
+      "Q": "What is a neuron?",
+      "A": "A nerve cell that transmits electrical signals."
+    },
+    {
+      "Q": "What is a niche?",
+      "A": "The role an organism plays in its environment."
+    },
+    {
+      "Q": "What are nucleic acids?",
+      "A": "DNA and RNA, which store genetic information."
+    },
+    {
+      "Q": "What is an organism?",
+      "A": "A living thing."
+    },
+    {
+      "Q": "What is osmosis?",
+      "A": "The movement of water across a membrane."
+    },
+    {
+      "Q": "What is a parasite?",
+      "A": "An organism that lives on or in a host."
+    },
+    {
+      "Q": "What is photosynthesis?",
+      "A": "The process by which plants make food using sunlight."
+    },
+    {
+      "Q": "What is a population?",
+      "A": "A group of the same species in an area."
+    },
+    {
+      "Q": "What is a predator?",
+      "A": "An animal that hunts and eats other animals."
+    },
+    {
+      "Q": "What is a producer?",
+      "A": "An organism that makes its own food, usually through photosynthesis."
+    },
+    {
+      "Q": "What is a protein?",
+      "A": "A molecule needed for growth and repair in living organisms."
+    },
+    {
+      "Q": "What is respiration?",
+      "A": "The process of converting food into energy."
+    },
+    {
+      "Q": "What is a species?",
+      "A": "A group of organisms that can reproduce and produce fertile offspring."
+    },
+    {
+      "Q": "What is symbiosis?",
+      "A": "A close relationship between two species."
+    },
+    {
+      "Q": "What is taxonomy?",
+      "A": "The classification of organisms into groups."
+    },
+    {
+      "Q": "What is tissue?",
+      "A": "A group of similar cells working together."
+    },
+    {
+      "Q": "What is a vaccine?",
+      "A": "A substance that stimulates immunity to a disease."
+    },
+    {
+      "Q": "What is a zygote?",
+      "A": "A fertilized egg cell."
+    }
+  ],
+  "Physical Science": [
+    {
+      "Q": "What is acceleration?",
+      "A": "The rate at which velocity changes over time."
+    },
+    {
+      "Q": "What is an atom?",
+      "A": "The smallest unit of an element that retains its properties."
+    },
+    {
+      "Q": "What is buoyancy?",
+      "A": "The ability of an object to float in a fluid."
+    },
+    {
+      "Q": "What is a chemical reaction?",
+      "A": "A process where substances transform into new substances."
+    },
+    {
+      "Q": "What is condensation?",
+      "A": "The process of gas turning into a liquid."
+    },
+    {
+      "Q": "What is conduction?",
+      "A": "The transfer of heat through direct contact."
+    },
+    {
+      "Q": "What is convection?",
+      "A": "Heat transfer through the movement of fluids."
+    },
+    {
+      "Q": "What is density?",
+      "A": "Mass per unit volume of a substance."
+    },
+    {
+      "Q": "What is an electric current?",
+      "A": "The flow of electric charge."
+    },
+    {
+      "Q": "What is the electromagnetic spectrum?",
+      "A": "The range of all types of electromagnetic radiation."
+    },
+    {
+      "Q": "What is energy?",
+      "A": "The capacity to do work."
+    },
+    {
+      "Q": "What is force?",
+      "A": "A push or pull acting on an object."
+    },
+    {
+      "Q": "What is friction?",
+      "A": "A force that opposes motion between two surfaces in contact."
+    },
+    {
+      "Q": "What is gas?",
+      "A": "A state of matter with no fixed shape or volume."
+    },
+    {
+      "Q": "What is gravity?",
+      "A": "The force of attraction between two masses."
+    },
+    {
+      "Q": "What is heat?",
+      "A": "The transfer of thermal energy from one object to another."
+    },
+    {
+      "Q": "What is a hypothesis?",
+      "A": "A testable scientific explanation."
+    },
+    {
+      "Q": "What is inertia?",
+      "A": "The tendency of an object to resist changes in its motion."
+    },
+    {
+      "Q": "What is an insulator?",
+      "A": "A material that resists the flow of electricity or heat."
+    },
+    {
+      "Q": "What is an ion?",
+      "A": "A charged atom or molecule."
+    },
+    {
+      "Q": "What is kinetic energy?",
+      "A": "Energy due to motion."
+    },
+    {
+      "Q": "What is the Law of Conservation of Energy?",
+      "A": "Energy cannot be created or destroyed, only transferred."
+    },
+    {
+      "Q": "What is a light year?",
+      "A": "The distance light travels in one year."
+    },
+    {
+      "Q": "What is mass?",
+      "A": "The amount of matter in an object."
+    },
+    {
+      "Q": "What is matter?",
+      "A": "Anything that has mass and takes up space."
+    },
+    {
+      "Q": "What is melting point?",
+      "A": "The temperature at which a solid turns into a liquid."
+    },
+    {
+      "Q": "What is a mixture?",
+      "A": "A combination of substances that retain their individual properties."
+    },
+    {
+      "Q": "What is momentum?",
+      "A": "The product of an object's mass and velocity."
+    },
+    {
+      "Q": "What is a neutron?",
+      "A": "A neutral particle in an atom’s nucleus."
+    },
+    {
+      "Q": "What is nuclear energy?",
+      "A": "Energy released from nuclear reactions."
+    },
+    {
+      "Q": "What is Ohm’s Law?",
+      "A": "Voltage = Current × Resistance."
+    },
+    {
+      "Q": "What is oxidation?",
+      "A": "A chemical reaction involving the loss of electrons."
+    },
+    {
+      "Q": "What is potential energy?",
+      "A": "Stored energy due to position."
+    },
+    {
+      "Q": "What is a precipitate?",
+      "A": "A solid that forms from a solution during a chemical reaction."
+    },
+    {
+      "Q": "What is pressure?",
+      "A": "Force applied per unit area."
+    },
+    {
+      "Q": "What is a proton?",
+      "A": "A positively charged particle in an atom’s nucleus."
+    },
+    {
+      "Q": "What is radiation?",
+      "A": "The emission of energy as electromagnetic waves."
+    },
+    {
+      "Q": "What is refraction?",
+      "A": "The bending of light as it passes through different media."
+    },
+    {
+      "Q": "What is resistance?",
+      "A": "Opposition to the flow of electric current."
+    },
+    {
+      "Q": "What is solubility?",
+      "A": "The ability of a substance to dissolve in another."
+    },
+    {
+      "Q": "What is a solid?",
+      "A": "A state of matter with a fixed shape and volume."
+    },
+    {
+      "Q": "What is a solution?",
+      "A": "A homogeneous mixture of two or more substances."
+    },
+    {
+      "Q": "What is speed?",
+      "A": "The distance traveled per unit of time."
+    },
+    {
+      "Q": "What is temperature?",
+      "A": "A measure of the average kinetic energy of particles."
+    },
+    {
+      "Q": "What is tension?",
+      "A": "A force that pulls on a material."
+    },
+    {
+      "Q": "What is thermal energy?",
+      "A": "The total kinetic energy of particles in a substance."
+    },
+    {
+      "Q": "What is velocity?",
+      "A": "Speed with direction."
+    },
+    {
+      "Q": "What is viscosity?",
+      "A": "A liquid’s resistance to flow."
+    },
+    {
+      "Q": "What is voltage?",
+      "A": "The electrical potential difference between two points."
+    },
+    {
+      "Q": "What is a wave?",
+      "A": "A disturbance that transfers energy through matter or space."
+    },
+    {
+      "Q": "What is Newton's Second Law?",
+      "A": "Force = Mass x Acceleration"
+    }
+  ],
+  "Accounting": [
+    {
+      "Q": "What is an asset?",
+      "A": "A resource owned by a business with economic value."
+    },
+    {
+      "Q": "What is a liability?",
+      "A": "An obligation a company owes to others."
+    },
+    {
+      "Q": "What is equity?",
+      "A": "The owner's claim on business assets after liabilities are deducted."
+    },
+    {
+      "Q": "What is a balance sheet?",
+      "A": "A financial statement showing assets, liabilities, and equity."
+    },
+    {
+      "Q": "What is an income statement?",
+      "A": "A financial report showing revenue, expenses, and profit or loss."
+    },
+    {
+      "Q": "What is revenue?",
+      "A": "Income earned from business operations."
+    },
+    {
+      "Q": "What is an expense?",
+      "A": "Costs incurred in running a business."
+    },
+    {
+      "Q": "What is profit?",
+      "A": "Revenue minus expenses."
+    },
+    {
+      "Q": "What is depreciation?",
+      "A": "The allocation of an asset's cost over its useful life."
+    },
+    {
+      "Q": "What is GAAP?",
+      "A": "Generally Accepted Accounting Principles, the standard framework for financial reporting."
+    },
+    {
+      "Q": "What is IFRS?",
+      "A": "International Financial Reporting Standards, used for global financial reporting."
+    },
+    {
+      "Q": "What is an auditor?",
+      "A": "A professional who examines financial statements for accuracy and compliance."
+    },
+    {
+      "Q": "What is financial accounting?",
+      "A": "The branch of accounting focused on external reporting."
+    },
+    {
+      "Q": "What is managerial accounting?",
+      "A": "Accounting focused on internal decision-making."
+    },
+    {
+      "Q": "What is tax accounting?",
+      "A": "Accounting related to tax laws and regulations."
+    },
+    {
+      "Q": "What is VAT?",
+      "A": "Value-Added Tax, a tax on goods and services."
+    },
+    {
+      "Q": "What is income tax?",
+      "A": "A tax imposed on earnings by individuals and businesses."
+    },
+    {
+      "Q": "What is a tax return?",
+      "A": "A form submitted to report income and calculate tax liability."
+    },
+    {
+      "Q": "What is a dividend?",
+      "A": "A portion of a company's profits paid to shareholders."
+    },
+    {
+      "Q": "What is a shareholder?",
+      "A": "A person or entity that owns shares in a company."
+    },
+    {
+      "Q": "What is a corporation?",
+      "A": "A business structure that is legally separate from its owners."
+    },
+    {
+      "Q": "What is a sole proprietorship?",
+      "A": "A business owned and operated by one person."
+    },
+    {
+      "Q": "What is a partnership?",
+      "A": "A business owned by two or more people."
+    },
+    {
+      "Q": "What is a cash flow statement?",
+      "A": "A financial report showing cash inflows and outflows."
+    },
+    {
+      "Q": "What is retained earnings?",
+      "A": "Profits kept in the business instead of distributed as dividends."
+    },
+    {
+      "Q": "What is an accounts payable?",
+      "A": "Money a business owes to suppliers."
+    },
+    {
+      "Q": "What is an accounts receivable?",
+      "A": "Money owed to a business by customers."
+    },
+    {
+      "Q": "What is a general ledger?",
+      "A": "A complete record of a company's financial transactions."
+    },
+    {
+      "Q": "What is a trial balance?",
+      "A": "A report that checks the equality of debits and credits."
+    },
+    {
+      "Q": "What is double-entry accounting?",
+      "A": "An accounting system where each transaction affects two accounts."
+    },
+    {
+      "Q": "What is an audit trail?",
+      "A": "A record of financial transactions used for verification."
+    },
+    {
+      "Q": "What is accrual accounting?",
+      "A": "Recording revenues and expenses when they are incurred, not when cash is exchanged."
+    },
+    {
+      "Q": "What is cash accounting?",
+      "A": "Recording revenues and expenses when cash is received or paid."
+    },
+    {
+      "Q": "What is goodwill?",
+      "A": "The value of a business's reputation, customer relationships, and brand."
+    },
+    {
+      "Q": "What is inventory?",
+      "A": "The raw materials, work-in-progress, and finished goods held by a business."
+    },
+    {
+      "Q": "What is liquidity?",
+      "A": "A measure of how easily assets can be converted into cash."
+    },
+    {
+      "Q": "What is solvency?",
+      "A": "A company's ability to meet its long-term debts and obligations."
+    },
+    {
+      "Q": "What is a financial ratio?",
+      "A": "A metric used to analyze a company's financial health."
+    },
+    {
+      "Q": "What is the ethics principle in accounting?",
+      "A": "Ensuring honesty, transparency, and integrity in financial reporting."
+    },
+    {
+      "Q": "What is fraud in accounting?",
+      "A": "Intentional deception in financial reporting for personal gain."
+    },
+    {
+      "Q": "What is a budget?",
+      "A": "A financial plan estimating income and expenses for a period."
+    },
+    {
+      "Q": "What is cost of goods sold (COGS)?",
+      "A": "The direct costs of producing goods sold by a business."
+    },
+    {
+      "Q": "What is working capital?",
+      "A": "Current assets minus current liabilities."
+    },
+    {
+      "Q": "What is a break-even point?",
+      "A": "The level of sales where total revenue equals total costs."
+    },
+    {
+      "Q": "What is fixed cost?",
+      "A": "A cost that does not change with production levels."
+    },
+    {
+      "Q": "What is variable cost?",
+      "A": "A cost that changes with production levels."
+    },
+    {
+      "Q": "What is an overdraft?",
+      "A": "A negative balance in a bank account allowed by the bank."
+    },
+    {
+      "Q": "What is a payroll?",
+      "A": "The process of paying employees their salaries and wages."
+    },
+    {
+      "Q": "What are assets?",
+      "A": "Assets are resources owned by a business that provide future economic benefits."
+    },
+    {
+      "Q": "What are examples of non-current assets?",
+      "A": "Land, Buildings, Vehicles, Equipment, Furniture & Fixtures."
+    },
+    {
+      "Q": "What are examples of current assets?",
+      "A": "Cash, Accounts Receivable, Inventory, Prepaid Expenses."
+    },
+    {
+      "Q": "What are liabilities?",
+      "A": "Liabilities are debts and obligations a business owes to others."
+    },
+    {
+      "Q": "What are examples of non-current liabilities?",
+      "A": "Mortgage Payable, Bonds Payable, Long-Term Loans."
+    },
+    {
+      "Q": "What are examples of current liabilities?",
+      "A": "Accounts Payable, Bank Overdraft, Short-Term Loans, Unearned Revenue, Accrued Expenses."
+    },
+    {
+      "Q": "What is Owners' Equity (OE)?",
+      "A": "Owners' Equity represents the owner's claim on the business assets after liabilities are deducted."
+    },
+    {
+      "Q": "What are examples of Owners' Equity accounts?",
+      "A": "Capital, Retained Earnings, Drawings, Revenue."
+    },
+    {
+      "Q": "What is the difference between assets and liabilities?",
+      "A": "Assets are what a company owns, while liabilities are what a company owes."
+    },
+    {
+      "Q": "What is the accounting equation?",
+      "A": "Assets = Owners' Equity + Liabilities."
+    },
+    {
+      "Q": "What is the accounting equation?",
+      "A": "Assets = Owners' Equity + Liabilities"
+    },
+    {
+      "Q": "What are assets?",
+      "A": "Resources owned by a business."
+    },
+    {
+      "Q": "What are liabilities?",
+      "A": "Obligations and debts owed by a business."
+    },
+    {
+      "Q": "What is equity?",
+      "A": "The owner's claim on business assets after liabilities."
+    },
+    {
+      "Q": "What is the double-entry system?",
+      "A": "Every transaction affects at least two accounts, keeping debits equal to credits."
+    },
+    {
+      "Q": "What are the types of accounts in accounting?",
+      "A": "Assets, Liabilities, Equity, Income, and Expenses."
+    },
+    {
+      "Q": "What is a sole proprietorship?",
+      "A": "A business owned and operated by one person."
+    },
+    {
+      "Q": "What is a partnership?",
+      "A": "A business owned by two or more people."
+    },
+    {
+      "Q": "What is a private company (Pty Ltd)?",
+      "A": "A company with limited liability that is not publicly traded."
+    },
+    {
+      "Q": "What is a public company (Ltd)?",
+      "A": "A company that sells shares to the public."
+    },
+    {
+      "Q": "What are ordinary shares?",
+      "A": "Shares where dividends are paid only if profits allow."
+    },
+    {
+      "Q": "What are preference shares?",
+      "A": "Shares that receive fixed dividends before ordinary shares."
+    },
+    {
+      "Q": "What is an interim dividend?",
+      "A": "A dividend paid before the financial year-end."
+    },
+    {
+      "Q": "What is a final dividend?",
+      "A": "A dividend declared at year-end."
+    },
+    {
+      "Q": "What is an income statement?",
+      "A": "A financial statement showing revenue, expenses, and profit/loss."
+    },
+    {
+      "Q": "What is a balance sheet?",
+      "A": "A financial statement listing assets, liabilities, and equity."
+    }
+  ],
+  "Arabic": [
+    {
+      "Q": "Hello",
+      "A": "Marhaban - مرحبًا"
+    },
+    {
+      "Q": "How much is this?",
+      "A": "Kam thamanu hadha? - كم ثمن هذا؟"
+    },
+    {
+      "Q": "Where is the airport?",
+      "A": "Ayna al-matar? - أين المطار؟"
+    },
+    {
+      "Q": "I need help",
+      "A": "Ahtaju ila musaadah - أحتاج إلى مساعدة"
+    },
+    {
+      "Q": "Can you speak English?",
+      "A": "Hal tatakallam al-ingliziyyah? - هل تتكلم الإنجليزية؟"
+    },
+    {
+      "Q": "Book",
+      "A": "Kitaab - كتاب"
+    },
+    {
+      "Q": "Car",
+      "A": "Sayyarah - سيارة"
+    },
+    {
+      "Q": "House",
+      "A": "Manzil - منزل"
+    },
+    {
+      "Q": "Chair",
+      "A": "Kursi - كرسي"
+    },
+    {
+      "Q": "Dog",
+      "A": "Kalb - كلب"
+    },
+    {
+      "Q": "One",
+      "A": "Wahid - واحد"
+    },
+    {
+      "Q": "Two",
+      "A": "Ithnan - اثنان"
+    },
+    {
+      "Q": "Three",
+      "A": "Thalathah - ثلاثة"
+    },
+    {
+      "Q": "Today",
+      "A": "Al-yawm - اليوم"
+    },
+    {
+      "Q": "Tomorrow",
+      "A": "Ghadan - غداً"
+    },
+    {
+      "Q": "Goodbye",
+      "A": "Ma'a as-salama - مع السلامة"
+    },
+    {
+      "Q": "Please",
+      "A": "Min fadlik - من فضلك"
+    },
+    {
+      "Q": "Thank you",
+      "A": "Shukran - شكراً"
+    },
+    {
+      "Q": "Yes",
+      "A": "Na'am - نعم"
+    },
+    {
+      "Q": "No",
+      "A": "La - لا"
+    },
+    {
+      "Q": "Excuse me",
+      "A": "Afwan - عفواً"
+    },
+    {
+      "Q": "I'm sorry",
+      "A": "Ana asif - أنا آسف"
+    },
+    {
+      "Q": "How are you?",
+      "A": "Kayfa haluk? - كيف حالك؟"
+    },
+    {
+      "Q": "I'm fine, thanks",
+      "A": "Ana bikhayr, shukran - أنا بخير، شكراً"
+    },
+    {
+      "Q": "What is your name?",
+      "A": "Ma ismuk? - ما اسمك؟"
+    },
+    {
+      "Q": "My name is...",
+      "A": "Ismi... - اسمي..."
+    },
+    {
+      "Q": "Where are you from?",
+      "A": "Min ayna anta? - من أين أنت؟"
+    },
+    {
+      "Q": "I am from...",
+      "A": "Ana min... - أنا من..."
+    },
+    {
+      "Q": "How much does this cost?",
+      "A": "Kam thaman hadha? - كم ثمن هذا؟"
+    },
+    {
+      "Q": "Where is the bathroom?",
+      "A": "Ayna al-hammam? - أين الحمام؟"
+    },
+    {
+      "Q": "I don't understand",
+      "A": "La afham - لا أفهم"
+    },
+    {
+      "Q": "Can you help me?",
+      "A": "Hal tasata'a musa'adati? - هل تستطيع مساعدتي؟"
+    },
+    {
+      "Q": "I love you",
+      "A": "Ana uhibbuk - أنا أحبك"
+    },
+    {
+      "Q": "Good morning",
+      "A": "Sabah al-khayr - صباح الخير"
+    },
+    {
+      "Q": "Good night",
+      "A": "Tusbih ala khayr - تصبح على خير"
+    },
+    {
+      "Q": "See you later",
+      "A": "Araka lahiqan - أراك لاحقًا"
+    },
+    {
+      "Q": "See you tomorrow",
+      "A": "Araka ghadan - أراك غداً"
+    },
+    {
+      "Q": "Welcome",
+      "A": "Ahlan wa sahlan - أهلاً وسهلاً"
+    },
+    {
+      "Q": "I don't speak Arabic",
+      "A": "La atakallam al-arabiyya - لا أتكلم العربية"
+    },
+    {
+      "Q": "Do you speak English?",
+      "A": "Hal tatakallam al-ingliziyya? - هل تتكلم الإنجليزية؟"
+    },
+    {
+      "Q": "Help!",
+      "A": "Musa'ada! - مساعدة!"
+    },
+    {
+      "Q": "I'm lost",
+      "A": "Ana da'i - أنا ضائع"
+    },
+    {
+      "Q": "Where is...?",
+      "A": "Ayna...? - أين...؟"
+    },
+    {
+      "Q": "What time is it?",
+      "A": "Kam as-sa'a? - كم الساعة؟"
+    },
+    {
+      "Q": "I'm hungry",
+      "A": "Ana ja'i - أنا جائع"
+    },
+    {
+      "Q": "I'm thirsty",
+      "A": "Ana 'atshan - أنا عطشان"
+    }
+  ],
+  "French": [
+    {
+      "Q": "Hello",
+      "A": "Bonjour"
+    },
+    {
+      "Q": "Goodbye",
+      "A": "Au revoir"
+    },
+    {
+      "Q": "Please",
+      "A": "S'il vous plaît"
+    },
+    {
+      "Q": "Thank you",
+      "A": "Merci"
+    },
+    {
+      "Q": "Yes",
+      "A": "Oui"
+    },
+    {
+      "Q": "No",
+      "A": "Non"
+    },
+    {
+      "Q": "Excuse me",
+      "A": "Excusez-moi"
+    },
+    {
+      "Q": "I'm sorry",
+      "A": "Je suis désolé(e)"
+    },
+    {
+      "Q": "How are you?",
+      "A": "Comment ça va ?"
+    },
+    {
+      "Q": "I'm fine, thanks",
+      "A": "Je vais bien, merci"
+    },
+    {
+      "Q": "What is your name?",
+      "A": "Comment vous appelez-vous ?"
+    },
+    {
+      "Q": "My name is...",
+      "A": "Je m'appelle..."
+    },
+    {
+      "Q": "Where are you from?",
+      "A": "D'où venez-vous ?"
+    },
+    {
+      "Q": "I am from...",
+      "A": "Je viens de..."
+    },
+    {
+      "Q": "How much does this cost?",
+      "A": "Combien ça coûte ?"
+    },
+    {
+      "Q": "Where is the bathroom?",
+      "A": "Où sont les toilettes ?"
+    },
+    {
+      "Q": "I don't understand",
+      "A": "Je ne comprends pas"
+    },
+    {
+      "Q": "Can you help me?",
+      "A": "Pouvez-vous m'aider ?"
+    },
+    {
+      "Q": "I love you",
+      "A": "Je t'aime"
+    },
+    {
+      "Q": "Good morning",
+      "A": "Bonjour"
+    },
+    {
+      "Q": "Good night",
+      "A": "Bonne nuit"
+    },
+    {
+      "Q": "See you later",
+      "A": "À plus tard"
+    },
+    {
+      "Q": "See you tomorrow",
+      "A": "À demain"
+    },
+    {
+      "Q": "Welcome",
+      "A": "Bienvenue"
+    },
+    {
+      "Q": "I don't speak French",
+      "A": "Je ne parle pas français"
+    },
+    {
+      "Q": "Do you speak English?",
+      "A": "Parlez-vous anglais ?"
+    },
+    {
+      "Q": "Help!",
+      "A": "À l'aide !"
+    },
+    {
+      "Q": "I'm lost",
+      "A": "Je suis perdu(e)"
+    },
+    {
+      "Q": "Where is...?",
+      "A": "Où est... ?"
+    },
+    {
+      "Q": "What time is it?",
+      "A": "Quelle heure est-il ?"
+    },
+    {
+      "Q": "I would like...",
+      "A": "Je voudrais..."
+    },
+    {
+      "Q": "The check, please",
+      "A": "L'addition, s'il vous plaît"
+    },
+    {
+      "Q": "I need a doctor",
+      "A": "J'ai besoin d'un médecin"
+    },
+    {
+      "Q": "I'm hungry",
+      "A": "J'ai faim"
+    },
+    {
+      "Q": "I'm thirsty",
+      "A": "J'ai soif"
+    },
+    {
+      "Q": "I'm tired",
+      "A": "Je suis fatigué(e)"
+    },
+    {
+      "Q": "It's delicious",
+      "A": "C'est délicieux"
+    },
+    {
+      "Q": "Congratulations!",
+      "A": "Félicitations !"
+    },
+    {
+      "Q": "Merry Christmas",
+      "A": "Joyeux Noël"
+    },
+    {
+      "Q": "Happy New Year",
+      "A": "Bonne année"
+    },
+    {
+      "Q": "Happy Birthday",
+      "A": "Joyeux anniversaire"
+    },
+    {
+      "Q": "Good luck",
+      "A": "Bonne chance"
+    },
+    {
+      "Q": "Have a nice day",
+      "A": "Bonne journée"
+    },
+    {
+      "Q": "Enjoy your meal",
+      "A": "Bon appétit"
+    },
+    {
+      "Q": "Cheers!",
+      "A": "À votre santé !"
+    }
+  ]
+}
